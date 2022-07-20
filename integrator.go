@@ -1,7 +1,7 @@
 package app
 
-import "core-esb/pkg/util"
+import "fmt"
 
 func DoSomething() {
-	util.ParseApp("Hello")
+	fmt.Println("Hello World")
 }
