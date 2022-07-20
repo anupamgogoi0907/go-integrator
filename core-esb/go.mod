@@ -1,4 +1,4 @@
-module core-esb
+module github.com/anupamgogoi0907/go-integrator/core-esb
 
 go 1.18
 
